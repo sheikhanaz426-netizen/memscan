@@ -14,6 +14,10 @@ navigate to the folder you stored the files in in the w64devkit terminal and run
 in the terminal navigate to the folder where the of the scanner are (cd your path)  files and then run : 
 g++ -O2 -std=c++17 -o memscan.exe main.cpp
 
+##demo
+<img width="1484" height="812" alt="image" src="https://github.com/user-attachments/assets/9f7cea31-91be-49de-96e5-198ab7a9796b" />
+
+
 after the .exe is in the folder RUN IT AS ADMINISTRATOR and the tool will be working fine 
 ONLY-USE-ON-OFFLINE-GAMES-SINGLE-PLAYER
 ## note
